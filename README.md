@@ -11,6 +11,7 @@ Tool used:
 * Omdb Api: http://www.omdbapi.com/
 
 ## Demo
+* View demo at: http://bibekpoudel.me/Movie/
 * Landing Page
   ![image](https://user-images.githubusercontent.com/65732044/166125309-8dc140de-53b9-4c95-b30a-71e994e76d77.png)
 * After you search any movie, it will call for Ibdb api and the list will display like this
